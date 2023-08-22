@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	data := longestCommonPrefix([]string{"flower", "flow", "flight"})
+data := longestCommonPrefix([]string{"dog", "rat", "car", "dot"})
 	fmt.Println(data)
 }
 
